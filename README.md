@@ -56,12 +56,7 @@ flutter run -d web-server
 
 ## Screenshots
 
-### Home Screen
-![Home](screenshots/home.jpg)
-
-### Write Entry
-![Write](screenshots/write.jpg)
-
-### Login
-![Calendar](screenshots/login.jpg)
+<img src="screenshots/home.jpg" width="250"/>
+<img src="screenshots/write.jpg" width="250"/>
+<img src="screenshots/login.jpg" width="250"/>
 
