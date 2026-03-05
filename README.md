@@ -52,5 +52,7 @@ flutter run
 or
 flutter run -d web-server 
 
-
+<img src="screenshots/home.png" width="250"/>
+<img src="screenshots/write.png" width="250"/>
+<img src="screenshots/login.png" width="250"/>
 
