@@ -224,7 +224,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
                           if (diaryPro.diaries.isEmpty &&
                               diaryPro.status == DiaryStatus.success) {
-                            return const Center(child: Text("No entries yet"));
+                            return const Center(child: Text("Chưa viết nhật kí"));
                           }
                           if (diaryPro.status == DiaryStatus.error) {
                             return const Center(child: Text("error"));
